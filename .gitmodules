@@ -1,0 +1,8 @@
+[submodule "cpp-mutex-playground"]
+	path = cpp-mutex-playground
+	url = https://github.com/dirkarnez/cpp-mutex-playground.git
+	branch = main
+[submodule "cpp-fiber-playground"]
+	path = cpp-fiber-playground
+	url = https://github.com/dirkarnez/cpp-fiber-playground.git
+	branch = main
