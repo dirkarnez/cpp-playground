@@ -6,3 +6,6 @@
 	path = cpp-fiber-playground
 	url = https://github.com/dirkarnez/cpp-fiber-playground.git
 	branch = main
+[submodule "cpp-functional-playground"]
+	path = cpp-functional-playground
+	url = https://github.com/dirkarnez/cpp-functional-playground.git
