@@ -9,3 +9,6 @@
 [submodule "cpp-functional-playground"]
 	path = cpp-functional-playground
 	url = https://github.com/dirkarnez/cpp-functional-playground.git
+[submodule "cpp-metaprogramming-playground"]
+	path = cpp-metaprogramming-playground
+	url = https://github.com/dirkarnez/cpp-metaprogramming-playground.git
