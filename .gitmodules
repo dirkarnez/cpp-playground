@@ -12,3 +12,6 @@
 [submodule "cpp-metaprogramming-playground"]
 	path = cpp-metaprogramming-playground
 	url = https://github.com/dirkarnez/cpp-metaprogramming-playground.git
+[submodule "cpp-pointers-playground"]
+	path = cpp-pointers-playground
+	url = https://github.com/dirkarnez/cpp-pointers-playground.git
