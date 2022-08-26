@@ -15,3 +15,6 @@
 [submodule "cpp-pointers-playground"]
 	path = cpp-pointers-playground
 	url = https://github.com/dirkarnez/cpp-pointers-playground.git
+[submodule "cpp-memory-playground"]
+	path = cpp-memory-playground
+	url = https://github.com/dirkarnez/cpp-memory-playground.git
